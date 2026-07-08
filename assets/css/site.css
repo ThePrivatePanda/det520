@@ -290,6 +290,12 @@ h1, h2, h3, .disp {
   .factbar { grid-template-columns: 1fr 1fr; }
   .factbar > div { border-right: none; border-bottom: 1px solid var(--line-soft); padding-left: 0; padding-bottom: 14px; }
 }
+@media (max-width: 600px) {
+  /* the 12vh/9vh hero rhythm is too airy on a phone — tighten the top gap
+     above the kicker and the gap between the buttons and the factbar */
+  .hero .wrap { padding-top: clamp(36px, 6vh, 72px); padding-bottom: clamp(30px, 5vh, 60px); }
+  .factbar { margin-top: clamp(30px, 5vh, 52px); }
+}
 
 /* ---- page hero (interior pages) ------------------------------------- */
 
@@ -338,7 +344,9 @@ h1, h2, h3, .disp {
 /* ---- creed band: mission + core values ------------------------------- */
 
 .creed { background: var(--ink-950); border-bottom: 1px solid var(--line-soft); }
-.creed .wrap { padding: clamp(56px, 8vh, 104px) 0; }
+/* longhand top/bottom so the base .wrap horizontal padding is preserved —
+   shorthand `padding: X 0` was zeroing the side padding, so the text ran to the edge */
+.creed .wrap { padding-top: clamp(56px, 8vh, 104px); padding-bottom: clamp(56px, 8vh, 104px); }
 .creed .kicker { display: flex; align-items: center; gap: 16px; }
 .creed .kicker::after { content: ""; flex: 1; height: 1px; background: var(--line); }
 .creed-statement {
@@ -505,6 +513,8 @@ h1, h2, h3, .disp {
   transition: filter .35s ease;
 }
 .photo-cell:hover img { filter: grayscale(0) contrast(1) brightness(.95); }
+/* colorize as the row scrolls into view — no tap/hover needed (touch-friendly) */
+.reveal.in .photo-cell img { filter: grayscale(0) contrast(1) brightness(.95); }
 .photo-cell figure::after {
   content: "";
   position: absolute; inset: 0;
@@ -719,7 +729,12 @@ footer { background: var(--ink-950); border-top: 1px solid var(--line); }
   gap: clamp(28px, 4vw, 56px);
   padding: clamp(48px, 7vh, 80px) 0 40px;
 }
-@media (max-width: 800px) { .foot-grid { grid-template-columns: 1fr; } }
+@media (max-width: 800px) {
+  .foot-grid { grid-template-columns: 1fr; }
+  /* stack the crest above the wordmark so the brand text lines up flush-left
+     with the other footer columns instead of being pushed right by the logo */
+  .foot-brand { flex-direction: column; }
+}
 .foot-brand { display: flex; gap: 16px; align-items: flex-start; }
 .foot-brand img { width: 64px; }
 .foot-brand .brand-name { font-size: 1.15rem; }
