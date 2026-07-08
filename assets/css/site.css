@@ -310,7 +310,7 @@ h1, h2, h3, .disp {
 
 /* ---- sections -------------------------------------------------------- */
 
-.section { padding: clamp(64px, 9vh, 110px) 0; }
+.section { padding: clamp(40px, 6vh, 72px) 0; }
 .section + .section { border-top: 1px solid var(--line-soft); }
 .section-alt { background: var(--ink-800); }
 
