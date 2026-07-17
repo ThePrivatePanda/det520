@@ -1,7 +1,3 @@
-_site/
-.jekyll-cache/
-.jekyll-metadata
-Gemfile.lock
 .DS_Store
-.sass-cache/
 *.swp
+node_modules/
