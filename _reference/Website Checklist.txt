@@ -1,0 +1,106 @@
+ALL PURPOSE CHECKLIST
+AF IMT 2519, 19911101 V5  (Jan 2021)  —  PREVIOUS EDITIONS ARE OBSOLETE.
+Page 1 of 2
+
+TITLE/SUBJECT/ACTIVITY/FUNCTIONAL AREA:
+  Air Force ROTC Public Website Quality Assurance Checklist
+  *Reference AFI 35-101, Public Affairs Operations, Unless otherwise noted.
+OPR: (blank)
+DATE: 20240621
+
+ITEM  (Assign a paragraph number to each item. Draw a horizontal line between each major paragraph.)
+Columns: Yes / No / N/A  — value in brackets is the box marked on the reviewed form.
+
+1.  [Yes] Website, to include videos and background music, complies with copyright restrictions.
+    Copyrighted material may only be used with written permission from the owner. (5.8.3.5.)
+
+2.  [Yes] Website contains accurate, current information and links. All hyperlinks are recently
+    validated. Recommend the inclusion of a "Current as of" date. (AFI 35-101, Attach 2, #10)
+    CAO: 13 June 2023
+
+3.  [Yes] Homepage contains links to www.af.mil, www.spaceforce.mil, www.airforce.com, the Holm
+    Center, (www.airuniversity.af.edu/Holm-Center), AFROTC Recruiting, (www.afrotc.com) and the
+    AF FOIA site, (www.compliance.af.mil). Pages do not link to information outside functional
+    area or mission. (5.4.3.1.) (5.8.1.4.) (5.8.2.1.) (AFI 35-101, Attach 2, #10)
+
+4.  [Yes] Pages are not used to promote personal/commercial gain or endorse commercial products
+    or services. (5.8.2.2.)
+
+5.  [Yes] Pages do not display incomplete paths, "access denied." or "under construction"
+    messages. (AFI 35-101, Attach 2, #10)
+
+6.  [Yes] Homepage/subordinate pages display required warning notices and banners (Privacy and
+    Security Notice and External Disclaimer for outside and non-government links).
+    (5.4.3.5.) (5.8.2.5.)
+
+7.  [Yes] Each unit or organizational top-level page contains organization name and shield,
+    organization office symbol, commercial telephone number, organizational email, and/or
+    feedback form. (5.8.1.6.)
+
+8.  [Yes] Webpage does not provide a list of names or individual e-mail addresses that are exempt
+    from release under FOIA. (Note: one e-mail address required for legitimate inquiries or page
+    maintenance is acceptable; however, it must be organizational/generic.) (5.8.1.6.)
+
+9.  [Yes] Pages do not contain information intended only for military members, cadre, or current
+    cadets. Cadet pages are password protected. (5.8.3.2. and 5.8.3.3.)
+
+10. [Yes] Pages comply with the Privacy Act. Pages do not contain personally identifying
+    information to include personal or business emails, phone numbers, SSNs, and birth dates.
+    There are no lists of names or e-mail addresses on rosters, telephone directories, or
+    organizational charts. (5.8.3.4.)
+
+11. [Yes] The only biographies/names posted on the site are those of Air Force officers, enlisted
+    and staff civilians who interact with the general public (recruiting purposes). There are no
+    biographies or lists of cadets posted. (Biographies reveal official duty information only;
+    they do not reveal birth place of the member, family members' names, or other personally
+    identifying information.). (5.8.1.2.)
+
+12. [Yes] Pages do not contain Classified, CUI or FOUO information (information exempt from release
+    under the FOIA according to DoD 5400.7R/AF Supplement 1), (5.8.3.3.).
+
+13. [Yes] Pages do not contain AFI 10-701 critical information (OPSEC) or sensitive mission data
+    that by itself is unclassified, but when combined with other available data may reveal
+    classified information. (AFMAN 35-101, Para. 8.5.1.)
+
+Page 2 of 2
+
+14. [Yes] Appearance of website is professional. Subordinate pages are recognizable as part of the
+    overall site. Pages load quickly and are not hampered by large graphics. Graphics, animations,
+    and sound files are limited and purposeful and do not detract from the overall quality of the
+    website. Navigation is simple, intuitive, and consistent throughout site. (5.8.3.1.) (5.8.3.3.)
+
+15. [Yes] Website resides on the host institution (.edu) webserver. (5.4.6.)
+
+16. [Yes] No links to the university donation page, nor any solicitation for donations on the site.
+    Solicitation by a federal entity, to include AFROTC detachments, is prohibited by the Joint
+    Ethics Regulation and Holm Center Instruction 51-601, paragraph 1.2.2.
+
+17. [Yes] Website does not require or encourage users to choose any specific browser software for
+    viewing. (5.8.2.4)
+
+18. [Yes] All videos uploaded to the Website include transcripts or closed captioning to comply
+    with Section 50[8] usability requirements for people with disabilities. (5.9.2.)
+
+19. [Yes] All documents are loaded as "native content" with no format or in PDF format for public
+    display on Websites. (5.4.5.)
+
+Section II: Signing below certifies that this webpage complies with AFI 35-107 and other indicated
+regulatory guidance.
+
+Signature: (Electronic Signature Authorized)
+Date Reviewed: 21 June 2024
+
+Web Master/Webpage Maintainer Name: Captain Robert Rauff
+Web Master Phone number & Email: 607-255-4004 & rbr85@cornell.edu
+
+Name of Unit Commander: Lt Col Nicholas Brougham, nb653@cornell.edu
+
+Name of University/College: Cornell University
+
+Detachment URL: https://www.afrotc.cornell.edu/
+
+LeMay Center Public Affairs Review Authority Signature/Date:
+
+LeMay Center/PA POC: John Coyle, 334-953-3779, john.coyle.4@us.af.mil
+//SIGNED// Michael L. Jackson, 42nd ABW Public Affairs
+24 June 2024
